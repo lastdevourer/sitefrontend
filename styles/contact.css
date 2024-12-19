@@ -1,0 +1,29 @@
+.contact-info {
+    position: relative;
+    height: 40%;
+    width: 20%;     
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border: 2px solid #2758e0;
+    border-radius: 8px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); 
+    min-width: 300px;
+    text-align: center;
+    background-color: #8993f1;
+}
+
+.contact-info p {
+    
+    text-decoration: none;
+}
+
+
+.contact-info a {
+    color: #000;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
