@@ -24,20 +24,8 @@
 }
 
 .card p {
-    font-size: 1.5em;
+    font-size: 3em;
     margin: 10px 0;
-}
-
-.card a {
-    display: inline-block;
-    margin-top: 10px;
-    color: #fff;
-    text-decoration: underline;
-    transition: color 0.3s ease;
-}
-
-.card a:hover {
-    color: #ffd700; 
 }
 
 .card:hover {
