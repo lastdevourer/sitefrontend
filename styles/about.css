@@ -1,0 +1,11 @@
+
+.title-container {
+    position: relative;
+}
+
+.title-container h1 {
+    font-size: 3rem;
+    margin: 0;
+    color: #fff; 
+ 
+}
