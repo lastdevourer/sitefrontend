@@ -15,17 +15,28 @@
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     max-width: 350px;
     min-height: 200px;
-    text-allign: center;
 }
 
 .card h3 {
     margin-top: 0;
-    font-size: 3em;
+    font-size: 1.5em;
 }
 
 .card p {
     font-size: 1em;
     margin: 10px 0;
+}
+
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #fff;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.card a:hover {
+    color: #ffd700; 
 }
 
 .card:hover {
